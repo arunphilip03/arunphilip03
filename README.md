@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunphilip03
-- 👀 I’m interested in solving complex problems using Java or Python code
-<!--- 
-- 🌱 I’m currently learning ...
+- 👀 I love solving complex problems using code 
+- 🌱 I’m currently learning GoLang!
+<!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
