@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arunphilip03
 - 👀 I love solving complex problems using code 
 - 🌱 I’m currently learning GoLang!
+- ✨ I am busy with my regular job, so there isn't much activity here
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
