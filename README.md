@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arunphilip03
+- 👋 Hi, I’m Arun Jacob
 - 👀 I am passionate about technology and solving complex problems using code 
 - 📫 You can reach me at arunphilip.jacob@outlook.com
 <!--
